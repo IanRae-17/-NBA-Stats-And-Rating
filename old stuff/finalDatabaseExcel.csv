@@ -1,0 +1,429 @@
+,PLAYER_ID,FIRST_NAME,LAST_NAME,AGE,HOMETOWN,LONGITUDE,LATITUDE,RATING,POS
+0,203999,Nikola,Jokic,27,"Sombor, Serbia",45.7727397,19.1147036,96,C
+1,203507,Giannis,Antetokounmpo,27,"Athens, Greece",37.9839412,23.7283052,94,PF
+2,203954,Joel,Embiid,28,"Yaounde, Cameroon",3.8689867,11.5213344,93,C
+3,1629029,Luka,Doncic,23,"Ljubljana, Slovenia",46.0500268,14.5069289,91,PG
+4,2544,LeBron,James,37,"Akron, Ohio",41.083064,-81.518485,89,PF
+5,201142,Kevin,Durant,33,"Washington, District of Columbia",38.8950368,-77.0365427,88,PF
+6,1628369,Jayson,Tatum,24,"St. Louis, Missouri",38.6264256,-90.1995853,88,SF
+7,1627749,Dejounte,Murray,25,"Seattle, Washington",47.6038321,-122.3300624,88,PG
+8,203497,Rudy,Gobert,30,"Saint-Quentin, France",49.8465253,3.2876843,88,C
+9,1626157,Karl-Anthony,Towns,26,"Edison, New Jersey",40.538457,-74.39450187,88,C
+10,101108,Chris,Paul,37,"Winston-Salem, North Carolina",36.0998131,-80.2440518,87,PG
+11,202710,Jimmy,Butler,32,"Houston, Texas",29.7589382,-95.3676974,87,SF
+12,1628389,Bam,Adebayo,24,"Newark, New Jersey",40.735657,-74.1723667,86,C
+13,201939,Stephen,Curry,34,"Akron, Ohio",41.083064,-81.518485,86,PG
+14,1629027,Trae,Young,23,"Lubbock, Texas",33.5635206,-101.879336,86,PG
+15,1627783,Pascal,Siakam,28,"Douala, Cameroon",4.0429408,9.706203,86,PF
+16,1626164,Devin,Booker,25,"Grand Rapids, Michigan",42.9632405,-85.6678639,86,SG
+17,201935,James,Harden,32,"Los Angeles, California",34.0536909,-118.242766,86,PG
+18,1629057,Robert,Williams,24,"Shreveport, Louisiana",32.5221828,-93.7651944,86,C
+19,1629630,Ja,Morant,22,"Dalzell, South Carolina",34.016597,-80.43574963,86,PG
+20,1628378,Donovan,Mitchell,25,"Elmsford, New York",41.0550969,-73.8201338,85,SG
+21,203076,Anthony,Davis,29,"Chicago, Illinois",41.8755616,-87.6244212,85,C
+22,1630163,LaMelo,Ball,20,"Anaheim, California",33.8347516,-117.911732,85,PG
+23,201942,DeMar,DeRozan,32,"Compton, California",33.894927,-118.226624,85,PF
+24,1627832,Fred,VanVleet,28,"Rockford, Illinois",42.2713945,-89.093966,85,PG
+25,1628386,Jarrett,Allen,24,"San Diego, California",32.7174202,-117.1627728,85,C
+26,204001,Kristaps,Porzingis,26,"Liepaja, Latvia",56.5048435,21.0070903,85,PF
+27,1627759,Jaylen,Brown,25,"Marietta, Georgia",33.9528472,-84.5496148,85,SF
+28,201143,Al,Horford,36,"Puerto Plata, Dominican Republic",19.7444333,-70.8000756,84,C
+29,201950,Jrue,Holiday,32,"Chatsworth, California",34.2595715,-118.6023247,84,PG
+30,1628983,Shai,Gilgeous-Alexander,23,"Toronto, Ontario",43.6534817,-79.3839347,84,PG
+31,1627734,Domantas,Sabonis,26,"Portland, Oregon",45.5202471,-122.6741949,84,C
+32,202331,Paul,George,32,"Palmdale, California",34.5793131,-118.1171108,84,SF
+33,1630217,Desmond,Bane,24,"Richmond, Indiana",39.8286897,-84.8898521,83,SG
+34,1629636,Darius,Garland,22,"Gary, Indiana",41.6020962,-87.3370647,83,PG
+35,202685,Jonas,Valanciunas,30,"Utena, Lithuania",55.4984381,25.6025772,83,C
+36,1628392,Isaiah,Hartenstein,24,"Eugene, Oregon",44.0505054,-123.0950506,83,C
+37,1628970,Miles,Bridges,24,"Flint, Michigan",43.0161693,-83.6900211,83,PF
+38,203110,Draymond,Green,32,"Saginaw, Michigan",43.4200387,-83.9490365,83,PF
+39,202696,Nikola,Vucevic,31,"Morges, Switzerland",46.5093268,6.498317,83,C
+40,1629028,Deandre,Ayton,23,"Nassau, Bahamas",25.0783456,-77.3383331,83,C
+41,1630169,Tyrese,Haliburton,22,"Oshkosh, Wisconsin",44.0206919,-88.5408574,83,PG
+42,1630596,Evan,Mobley,21,"San Diego, California",32.7174202,-117.1627728,83,PF
+43,203944,Julius,Randle,27,"Dallas, Texas",32.7762719,-96.7968559,82,PF
+44,201144,Mike,Conley,34,"Fayetteville, Arkansas",36.0625843,-94.1574328,82,PG
+45,203991,Clint,Capela,28,"Geneva, Switzerland",46.2017559,6.1466014,82,C
+46,1630567,Scottie,Barnes,20,"West Palm Beach, Florida",26.715364,-80.0532942,82,PF
+47,201567,Kevin,Love,33,"Santa Monica, California",34.0194704,-118.4912273,82,C
+48,1629634,Brandon,Clarke,25,"Vancouver, British Columbia",49.2608724,-123.113952,82,PF
+49,203897,Zach,LaVine,27,"Renton, Washington",47.4799078,-122.2034496,82,SG
+50,203114,Khris,Middleton,30,"Charleston, South Carolina",32.7876012,-79.9402728,82,SF
+51,1628969,Mikal,Bridges,25,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,82,SF
+52,1627751,Jakob,Poeltl,26,"Vienna, Austria",48.2083537,16.3725042,82,C
+53,1630162,Anthony,Edwards,20,"Atlanta, Georgia",33.7489924,-84.3902644,82,SG
+54,1628991,Jaren,Jackson Jr.,22,"Plainfield, New Jersey",40.6337136,-74.4073737,82,PF
+55,1626174,Christian,Wood,26,"Long Beach, California",33.7690164,-118.191604,82,C
+56,203083,Andre,Drummond,28,"Mount Vernon, New York",40.9125815,-73.8370786,82,C
+57,202681,Kyrie,Irving,30,"Melbourne, Australia",-37.8142176,144.9631608,82,PG
+58,1628976,Wendell,Carter Jr.,23,"Atlanta, Georgia",33.7489924,-84.3902644,82,PF
+59,1629673,Jordan,Poole,23,"Milwaukee, Wisconsin",43.0349931,-87.922497,82,SG
+60,1626179,Terry,Rozier,28,"Youngstown, Ohio",41.1035786,-80.6520161,82,SG
+61,203468,CJ,McCollum,30,"Canton, Ohio",40.7985464,-81.3749508,82,SG
+62,1627780,Gary,Payton II,29,"Seattle, Washington",47.6038321,-122.3300624,82,SG
+63,1628973,Jalen,Brunson,25,"New Brunswick, New Jersey",40.4862174,-74.4518173,82,SG
+64,203935,Marcus,Smart,28,"Flower Mound, Texas",33.0283854,-97.0867203,82,PG
+65,203500,Steven,Adams,28,"Rotorua, New Zealand",-38.1381493,176.252922,82,C
+66,203952,Andrew,Wiggins,27,"Toronto, Ontario",43.6534817,-79.3839347,82,SF
+67,200768,Kyle,Lowry,36,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,82,PG
+68,1627742,Brandon,Ingram,24,"Kinston, North Carolina",35.2626635,-77.5816353,82,SF
+69,203490,Otto,Porter Jr.,29,"St. Louis, Missouri",38.6264256,-90.1995853,81,PF
+70,1626171,Bobby,Portis,27,"Little Rock, Arkansas",34.7465071,-92.2896267,81,C
+71,202692,Alec,Burks,30,"Grandview, Missouri",38.8898478,-94.5313816,81,SG
+72,1628964,Mo,Bamba,24,"Harlem, New York",40.7830439,-73.9527658,81,C
+73,202699,Tobias,Harris,29,"Islip, New York",40.7300685,-73.2107266,81,PF
+74,203994,Jusuf,Nurkic,27,"Tuzla, Bosnia and Herzegovina",44.5391105,18.675193,81,C
+75,201976,Patrick,Beverley,33,"Chicago, Illinois",41.8755616,-87.6244212,81,PG
+76,1626167,Myles,Turner,26,"Bedford, Texas",32.844017,-97.1430671,81,C
+77,1629001,De'Anthony,Melton,24,"North Hollywood, California",34.1729044,-118.3740371,81,SG
+78,1629018,Gary,Trent Jr.,23,"Columbus, Ohio",39.9622601,-83.0007065,81,SG
+79,1628366,Lonzo,Ball,24,"Anaheim, California",33.8347516,-117.911732,81,PG
+80,1626149,Montrezl,Harrell,28,"Tarboro, North Carolina",35.8968236,-77.5358049,81,C
+81,201580,JaVale,McGee,34,"Flint, Michigan",43.0161693,-83.6900211,81,C
+82,1627827,Dorian,Finney-Smith,29,"Portsmouth, Virginia",36.8444196,-76.3532998,81,PF
+83,1630178,Tyrese,Maxey,21,"Dallas, Texas",32.7762719,-96.7968559,81,PG
+84,1629661,Cameron,Johnson,26,"Moon Township, Pennsylvania",40.5061,-80.2082,81,PF
+85,203109,Jae,Crowder,31,"Villa Rica, Georgia",33.732052,-84.9191081,81,PF
+86,1628368,De'Aaron,Fox,24,"New Orleans, Louisiana",29.9759983,-90.0782127,81,PG
+87,1628381,John,Collins,24,"Layton, Utah",41.0751048,-111.9741925,81,PF
+88,1628401,Derrick,White,27,"Parker, Colorado",39.5184514,-104.7612638,81,SG
+89,201566,Russell,Westbrook,33,"Long Beach, California",33.7690164,-118.191604,81,PG
+90,1629639,Tyler,Herro,22,"Milwaukee, Wisconsin",43.0349931,-87.922497,81,SG
+91,1626145,Tyus,Jones,26,"Burnsville, Minnesota",44.7670567,-93.2773887,80,PG
+92,1629640,Keldon,Johnson,22,"Chesterfield, Virginia",36.8437589,-76.2599395,80,SF
+93,203924,Jerami,Grant,28,"Portland, Oregon",45.5202471,-122.6741949,80,PF
+94,1628398,Kyle,Kuzma,26,"Flint, Michigan",43.0161693,-83.6900211,80,PF
+95,203939,Dwight,Powell,30,"Toronto, Ontario",43.6534817,-79.3839347,80,C
+96,1626172,Kevon,Looney,26,"Milwaukee, Wisconsin",43.0349931,-87.922497,80,C
+97,1629655,Daniel,Gafford,23,"El Dorado, Arkansas",33.20763,-92.6662674,80,C
+98,1628404,Josh,Hart,27,"Silver Spring, Maryland",38.9997621,-77.0240371,80,SG
+99,1630529,Herbert,Jones,23,"Tuscaloosa, Alabama",33.2095614,-87.5675258,80,PF
+100,201587,Nicolas,Batum,33,"Lisieux, France",49.1460831,0.2255168,80,PF
+101,1629680,Matisse,Thybulle,25,"Scottsdale, Arizona",33.4942189,-111.9260184,80,SG
+102,1628971,Bruce,Brown,25,"Boston, Massachusetts",42.3554334,-71.060511,80,SF
+103,1630532,Franz,Wagner,20,"Berlin, Germany",52.5170365,13.3888599,80,SF
+104,203496,Robert,Covington,31,"Bellwood, Illinois",41.8814197,-87.883117,80,PF
+105,1628384,OG,Anunoby,24,"London, United Kingdom",51.5073219,-0.1276474,80,SF
+106,1626156,D'Angelo,Russell,26,"Louisville, Kentucky",38.2542376,-85.759407,80,PG
+107,203937,Kyle,Anderson,28,"Fairview, New Jersey",40.8126006,-73.999028,80,PF
+108,1629020,Jarred,Vanderbilt,23,"Houston, Texas",29.7589382,-95.3676974,80,PF
+109,1628449,Chris,Boucher,29,"Castries, Saint Lucia",13.90904385,-60.97792414,79,SF
+110,1628997,Caleb,Martin,26,"Winston-Salem, North Carolina",36.0998131,-80.2440518,79,SF
+111,1630595,Cade,Cunningham,20,"Arlington, Texas",32.7355816,-97.1071186,79,SG
+112,203992,Bogdan,Bogdanovic,29,"Belgrade, Serbia",44.8178131,20.4568974,79,SG
+113,203486,Mason,Plumlee,32,"Fort Wayne, Indiana",41.0799898,-85.1386015,79,C
+114,203078,Bradley,Beal,29,"St. Louis, Missouri",38.6264256,-90.1995853,79,SG
+115,1627763,Malcolm,Brogdon,29,"Atlanta, Georgia",33.7489924,-84.3902644,79,PG
+116,1629628,RJ,Barrett,22,"Toronto, Ontario",43.6534817,-79.3839347,79,SF
+117,203932,Aaron,Gordon,26,"San Jose, California",37.3361905,-121.890583,79,PF
+118,1628374,Lauri,Markkanen,25,"Vantaa, Finland",60.3091871,25.0364526,79,SF
+119,203084,Harrison,Barnes,30,"Ames, Iowa",42.0267567,-93.6170448,79,PF
+120,201937,Ricky,Rubio,31,"El Masnou, Spain",41.4796899,2.3118347,79,PG
+121,1630631,Jose,Alvarado,24,"Brooklyn, New York",40.6526006,-73.9497211,79,PG
+122,201152,Thaddeus,Young,34,"New Orleans, Louisiana",29.9759983,-90.0782127,79,PF
+123,2546,Carmelo,Anthony,38,"Brooklyn, New York",40.6526006,-73.9497211,79,PF
+124,1629643,Chuma,Okeke,23,"Atlanta, Georgia",33.7489924,-84.3902644,79,PF
+125,200746,LaMarcus,Aldridge,36,"Dallas, Texas",32.7762719,-96.7968559,79,C
+126,1626220,Royce,O'Neale,29,"Killeen, Texas",31.1171441,-97.727796,79,SF
+127,1630170,Devin,Vassell,21,"Lawrenceville, Georgia",33.9562149,-83.9879625,79,SF
+128,203488,Mike,Muscala,30,"St. Louis Park, Minnesota",44.9475726,-93.3569023,79,C
+129,203081,Damian,Lillard,31,"Oakland, California",37.8044557,-122.2713563,79,PG
+130,202711,Bojan,Bogdanovic,33,"Mostar, Bosnia and Herzegovina",43.3435855,17.8076584,79,PF
+131,203115,Will,Barton,31,"Baltimore, Maryland",39.2908816,-76.610759,79,SG
+132,1630175,Cole,Anthony,22,"Portland, Oregon",45.5202471,-122.6741949,79,PG
+133,1626153,Delon,Wright,30,"Los Angeles, California",34.0536909,-118.242766,79,SG
+134,202357,Nemanja,Bjelica,34,"Belgrade, Serbia",44.8178131,20.4568974,79,C
+135,1629637,Jaxson,Hayes,22,"Norman, Oklahoma",35.2225717,-97.4394816,79,C
+136,202330,Gordon,Hayward,32,"Indianapolis, Indiana",39.7683331,-86.1583502,79,SF
+137,1630180,Saddiq,Bey,23,"Charlotte, North Carolina",35.2272086,-80.8430827,79,SF
+138,1629023,P.J.,Washington,23,"Louisville, Kentucky",38.2542376,-85.759407,79,C
+139,1629611,Terance,Mann,25,"Brooklyn, New York",40.6526006,-73.9497211,79,SF
+140,203552,Seth,Curry,31,"Charlotte, North Carolina",35.2272086,-80.8430827,79,SG
+141,1628420,Monte,Morris,27,"Grand Rapids, Michigan",42.9632405,-85.6678639,79,PG
+142,203903,Jordan,Clarkson,30,"Tampa, Florida",27.9477595,-82.458444,79,SG
+143,201565,Derrick,Rose,33,"Chicago, Illinois",41.8755616,-87.6244212,79,PG
+144,1630193,Immanuel,Quickley,23,"Havre de Grace, Maryland",39.5491329,-76.095817,79,PG
+145,202691,Klay,Thompson,32,"Los Angeles, California",34.0536909,-118.242766,79,SG
+146,1630194,Paul,Reed,23,"Orlando, Florida",28.5421109,-81.3790304,79,C
+147,1630167,Obi,Toppin,24,"Brooklyn, New York",40.6526006,-73.9497211,79,PF
+148,203915,Spencer,Dinwiddie,29,"Los Angeles, California",34.0536909,-118.242766,79,PG
+149,1629675,Naz,Reid,22,"Asbury Park, New Jersey",40.2203907,-74.0120817,79,C
+150,200782,P.J.,Tucker,37,"Raleigh, North Carolina",35.7803977,-78.6390989,79,PF
+151,1630581,Josh,Giddey,19,"Melbourne, Australia",-37.8142176,144.9631608,79,SF
+152,1626192,Pat,Connaughton,29,"Arlington, Massachusetts",42.4169247,-71.17057911,78,SF
+153,1626181,Norman,Powell,29,"San Diego, California",32.7174202,-117.1627728,78,SG
+154,1629647,Darius,Bazley,22,"Boston, Massachusetts",42.3554334,-71.060511,78,PF
+155,1628415,Dillon,Brooks,26,"Mississauga, Ontario",43.5896231,-79.6443879,78,SF
+156,1629684,Grant,Williams,23,"Houston, Texas",29.7589382,-95.3676974,78,PF
+157,203473,Dewayne,Dedmon,32,"Lancaster, California",34.6981064,-118.1366153,78,C
+158,1628998,Cody,Martin,26,"Winston-Salem, North Carolina",36.0998131,-80.2440518,78,SF
+159,2738,Andre,Iguodala,38,"Springfield, Illinois",39.7990175,-89.6439575,78,SF
+160,1628977,Hamidou,Diallo,23,"Queens, New York",40.76639995,-73.77387801,78,SG
+161,1626168,Trey,Lyles,26,"Saskatoon, Saskatchewan",52.131802,-106.660767,78,PF
+162,1629723,John,Konchar,26,"Chicago, Illinois",41.8755616,-87.6244212,78,SG
+163,1629021,Moritz,Wagner,25,"Berlin, Germany",52.5170365,13.3888599,78,C
+164,1626196,Josh,Richardson,28,"Edmond, Oklahoma",35.6571367,-97.4649038,78,SG
+165,1629676,Isaiah,Roby,24,"Dixon, Illinois",41.8425197,-89.4814291,78,PF
+166,1627747,Caris,LeVert,27,"Columbus, Ohio",39.9622601,-83.0007065,78,SG
+167,1630578,Alperen,Sengun,19,"Giresun, Turkey",40.6531617,38.5172032,78,C
+168,1626224,Cedi,Osman,27,"Ohrid, Macedonia",41.1170203,20.8017387,78,SF
+169,1628379,Luke,Kennard,26,"Middletown, Ohio",39.5150576,-84.3982763,78,SG
+170,202339,Eric,Bledsoe,32,"Birmingham, Alabama",33.5206824,-86.8024326,78,PG
+171,202694,Marcus,Morris,32,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,78,PF
+172,203095,Evan,Fournier,29,"Saint-Maurice, France",48.33221955,7.33567527,78,SG
+173,1626166,Cameron,Payne,27,"Memphis, Tennessee",35.1335022,-89.9668758,78,PG
+174,1628370,Malik,Monk,24,"Jonesboro, Arkansas",35.8428646,-90.7034522,78,SG
+175,1626162,Kelly,Oubre Jr.,26,"New Orleans, Louisiana",29.9759983,-90.0782127,78,SF
+176,1629750,Javonte,Green,28,"Petersburg, Virginia",37.227928,-77.4019268,78,SF
+177,203482,Kelly,Olynyk,31,"Toronto, Ontario",43.6534817,-79.3839347,78,C
+178,1628960,Grayson,Allen,26,"Jacksonville, Florida",30.3321838,-81.655651,78,SG
+179,1630171,Isaac,Okoro,21,"Atlanta, Georgia",33.7489924,-84.3902644,78,SF
+180,202326,DeMarcus,Cousins,31,"Mobile, Alabama",30.6943566,-88.0430541,78,C
+181,1629652,Luguentz,Dort,23,"Montreal, Quebec",45.5031824,-73.5698065,78,SG
+182,1627745,Damian,Jones,27,"Baton Rouge, Louisiana",30.4459596,-91.18738,78,C
+183,202704,Reggie,Jackson,32,"Pordenone, Italy",45.9562503,12.6597197,78,SG
+184,203457,Nerlens,Noel,28,"Malden, Massachusetts",42.4250964,-71.066163,78,C
+185,1630543,Isaiah,Jackson,20,"Pontiac, Michigan",42.6389216,-83.2910468,78,PF
+186,1630166,Deni,Avdija,21,"Beit Zera, ISr.ael",32.6882909,35.5733669,78,SF
+187,1630214,Xavier,Tillman Sr.,23,"Grand Rapids, Michigan",42.9632405,-85.6678639,78,PF
+188,203484,Kentavious,Caldwell-Pope,29,"Thomaston, Georgia",32.8881879,-84.3265855,78,SG
+189,1628467,Maxi,Kleber,30,"Wurzburg, Germany",49.79245,9.932966,78,PF
+190,202689,Kemba,Walker,32,"The Bronx, New York",40.8466508,-73.8785937,78,PG
+191,1629622,Max,Strus,26,"Hickory Hills, Illinois",41.7255879,-87.825055,78,SF
+192,1630538,Bones,Hyland,21,"Wilmington, Delaware",39.7459468,-75.546589,78,SG
+193,1626195,Willy,Hernangomez,28,"Madrid, Spain",40.4167047,-3.7035825,78,C
+194,1629002,Chimezie,Metu,25,"Los Angeles, California",34.0536909,-118.242766,78,C
+195,1627936,Alex,Caruso,28,"College Station, Texas",30.5955289,-96.3071042,78,SG
+196,1629645,Kevin,Porter Jr.,22,"Seattle, Washington",47.6038321,-122.3300624,78,PG
+197,203471,Dennis,Schroder,28,"Braunschweig, Germany",52.2646577,10.5236066,78,PG
+198,1626158,Richaun,Holmes,28,"Lockport, Illinois",41.5894753,-88.057837,78,C
+199,1629646,Charles,Bassey,21,"Lagos, Nigeria",6.4550575,3.3941795,78,C
+200,204456,T.J.,McConnell,30,"Pittsburgh, Pennsylvania",40.4416941,-79.9900861,78,PG
+201,1630202,Payton,Pritchard,24,"Tualatin, Oregon",45.3838546,-122.766351,78,PG
+202,1630256,Jae'Sean,Tate,26,"Toledo, Ohio",41.6529143,-83.5378173,78,PF
+203,203501,Tim,Hardaway Jr.,30,"Orinda, California",37.8771476,-122.1796888,78,SG
+204,1627741,Buddy,Hield,29,"Freeport, Bahamas",26.535681,-78.6953623,78,SG
+205,1630228,Jonathan,Kuminga,19,"Goma, Democratic Republic of the Congo",-1.6665685,29.225652,77,SF
+206,1630188,Jalen,Smith,22,"Portsmouth, Virginia",36.8444196,-76.3532998,77,PF
+207,1630191,Isaiah,Stewart,21,"Rochester, New York",43.157285,-77.615214,77,C
+208,1630209,Omer,Yurtseven,24,"Istanbul, Turkey",41.0091982,28.9662187,77,C
+209,1629669,Jaylen,Nowell,22,"Seattle, Washington",47.6038321,-122.3300624,77,SG
+210,1629308,Juan,Toscano-Anderson,29,"Oakland, California",37.8044557,-122.2713563,77,SF
+211,1629162,Jordan,McLaughlin,26,"Etiwanda, California",34.1261209,-117.5236622,77,PG
+212,1629130,Duncan,Robinson,28,"York, Maine",43.1520973,-70.6493185,77,SG
+213,1626204,Larry,Nance Jr.,29,"Akron, Ohio",41.083064,-81.518485,77,PF
+214,1629026,Kenrich,Williams,27,"Waco, Texas",31.549333,-97.1466695,77,SF
+215,1629216,Gabe,Vincent,26,"Modesto, California",37.6390972,-120.9968782,77,PG
+216,1630173,Precious,Achiuwa,22,"Port Harcourt, Nigeria",4.7676576,7.0188527,77,C
+217,201568,Danilo,Gallinari,33,"Sant'Angelo Lodigiano, Italy",45.238067,9.408656,77,PF
+218,203210,JaMychal,Green,32,"Montgomery, Alabama",32.3669656,-86.3006485,77,PF
+219,2730,Dwight,Howard,36,"Atlanta, Georgia",33.7489924,-84.3902644,77,C
+220,1628380,Zach,Collins,24,"Las Vegas, Nevada",36.1672559,-115.148516,77,C
+221,1630267,Facundo,Campazzo,31,"Córdoba, Argentina",-31.4173391,-64.183319,77,PG
+222,1630182,Josh,Green,21,"Sydney, Australia",-33.8698439,151.2082848,77,SG
+223,1628989,Kevin,Huerter,23,"Albany, New York",41.7781234,-72.6863052,77,SF
+224,1628984,Devonte',Graham,27,"Raleigh, North Carolina",35.7803977,-78.6390989,77,PG
+225,1629234,Drew,Eubanks,25,"Starkville, Mississippi",33.4503998,-88.8183872,77,C
+226,201980,Danny,Green,35,"North Babylon, New York",40.7164881,-73.3217861,76,SF
+227,1627777,Georges,Niang,29,"Lawrence, Massachusetts",42.7070354,-71.1631137,76,PF
+228,1630537,Chris,Duarte,25,"Montreal, Quebec",45.5031824,-73.5698065,76,SG
+229,1627752,Taurean,Prince,28,"San Marcos, Texas",29.8826436,-97.9405828,76,PF
+230,203476,Gorgui,Dieng,32,"Kebemer, Senegal",15.3688735,-16.4429778,76,C
+231,1630165,Killian,Hayes,20,"Lakeland, Florida",28.0394654,-81.9498042,76,PG
+232,1629056,Terence,Davis,25,"Southaven, Mississippi",34.9873822,-90.0034862,76,SG
+233,201988,Patty,Mills,33,"Canberra, Australia",-35.2975906,149.1012676,76,SG
+234,1629599,Amir,Coffey,25,"Hopkins, Minnesota",44.9271194,-93.4074945,76,SG
+235,1630183,Jaden,McDaniels,21,"Federal Way, Washington",47.313494,-122.3393103,76,PF
+236,1630197,Aleksej,Pokusevski,20,"Belgrade, Serbia",44.8178131,20.4568974,76,PF
+237,1628372,Dennis,Smith Jr.,24,"Fayetteville, North Carolina",35.0525759,-78.878292,76,PG
+238,1630231,Kenyon,Martin Jr.,21,"Gardena, California",33.8963593,-118.3053037,76,SF
+239,1630245,Ayo,Dosunmu,22,"Chicago, Illinois",41.8755616,-87.6244212,76,SG
+240,1630200,Tre,Jones,22,"Apple Valley, Minnesota",44.7319094,-93.21772,76,PG
+241,1629014,Anfernee,Simons,23,"Longwood, Florida",28.7008496,-81.3465575,76,SG
+242,1629048,Goga,Bitadze,22,"Sagarejo, Georgia",41.67584195,45.4149116,76,C
+243,1627736,Malik,Beasley,25,"Atlanta, Georgia",33.7489924,-84.3902644,76,SG
+244,1627761,DeAndre',Bembry,27,"Charlotte, North Carolina",35.2272086,-80.8430827,76,SF
+245,1630570,Trendon,Watford,21,"Birmingham, Alabama",33.5206824,-86.8024326,76,SF
+246,1627814,Damion,Lee,29,"Baltimore, Maryland",39.2908816,-76.610759,76,SG
+247,1629022,Lonnie,Walker IV,23,"Reading, Pennsylvania",40.335345,-75.9279495,76,SG
+248,1626159,Justise,Winslow,26,"Houston, Texas",29.7589382,-95.3676974,76,PF
+249,1630240,Saben,Lee,23,"St. Louis, Missouri",38.6264256,-90.1995853,76,PG
+250,1628464,Daniel,Theis,30,"Salzgitter, Germany",52.1503721,10.3593147,76,C
+251,1629659,Talen,Horton-Tucker,21,"Chicago, Illinois",41.8755616,-87.6244212,76,SG
+252,204060,Joe,Ingles,34,"Adelaide, Australia",-34.9281805,138.5999312,76,SF
+253,1628988,Aaron,Holiday,25,"Ruston, Louisiana",32.5232053,-92.637927,76,PG
+254,201588,George,Hill,36,"Indianapolis, Indiana",39.7683331,-86.1583502,76,PG
+255,203493,Reggie,Bullock,31,"Baltimore, Maryland",39.2908816,-76.610759,76,SF
+256,1628470,Torrey,Craig,31,"Columbia, South Carolina",38.88974405,-77.04086076,76,SF
+257,201145,Jeff,Green,35,"Cheverly, Maryland",38.928167,-76.915807,76,PF
+258,1629052,Oshae,Brissett,24,"Toronto, Ontario",43.6534817,-79.3839347,76,SF
+259,1629632,Coby,White,22,"Goldsboro, North Carolina",35.3848841,-77.9927651,76,PG
+260,1629629,Cam,Reddish,22,"Norristown, Pennsylvania",40.121497,-75.3399048,76,SF
+261,1628963,Marvin,Bagley III,23,"Tempe, Arizona",33.4255056,-111.9400091,76,PF
+262,200765,Rajon,Rondo,36,"Louisville, Kentucky",38.2542376,-85.759407,76,PG
+263,1628978,Donte,DiVincenzo,25,"Newark, Delaware",39.6775927,-75.7630866,76,SG
+264,1629060,Rui,Hachimura,24,"Toyama, Japan",36.6468015,137.2183531,76,PF
+265,1628418,Thomas,Bryant,24,"Rochester, New York",43.157285,-77.615214,76,C
+266,1629656,Quentin,Grimes,22,"Houston, Texas",29.7589382,-95.3676974,76,SG
+267,201959,Taj,Gibson,37,"Brooklyn, New York",40.6526006,-73.9497211,76,C
+268,201933,Blake,Griffin,33,"Oklahoma City, Oklahoma",35.4729886,-97.5170536,76,C
+269,1630224,Jalen,Green,20,"Merced, California",37.1641544,-120.7678602,76,SG
+270,1628021,David,Nwaba,29,"Los Angeles, California",34.0536909,-118.242766,76,SF
+271,1630678,Terry,Taylor,22,"Bowling Green, Kentucky",36.9903199,-86.4436018,76,SG
+272,1629642,Nassir,Little,22,"Pensacola, Florida",30.421309,-87.2169149,76,SF
+273,201586,Serge,Ibaka,32,"Brazzaville, Republic of the Congo",-4.2694407,15.2712256,76,C
+274,1630591,Jalen,Suggs,21,"St. Paul, Minnesota",44.9497487,-93.0931028,76,PG
+275,203920,Khem,Birch,29,"Montreal, Quebec",45.5031824,-73.5698065,76,C
+276,1629164,Brandon,Goodwin,26,"Norcross, Georgia",33.9412127,-84.2135309,76,PG
+277,1628981,Bruno,Fernando,23,"Luanda, Angola",-8.8272699,13.2439512,76,C
+278,1627884,Derrick,Jones Jr.,25,"Chester, Pennsylvania",39.849557,-75.3557458,76,PF
+279,200752,Rudy,Gay,35,"Brooklyn, New York",40.6526006,-73.9497211,76,PF
+280,1630235,Trent,Forrest,24,"Dothan, Alabama",31.2237434,-85.3933906,75,PG
+281,1630233,Nathan,Knight,24,"Syracuse, New York",43.0481221,-76.1474244,75,PF
+282,203526,Raul,Neto,30,"Belo Horizonte, Brazil",-19.9227318,-43.9450948,75,PG
+283,1630559,Austin,Reaves,24,"Newark, Arkansas",35.7008914,-91.4450306,75,SG
+284,201949,James,Johnson,35,"Cheyenne, Wyoming",41.139981,-104.820246,75,PF
+285,1626169,Stanley,Johnson,26,"Los Angeles, California",34.0536909,-118.242766,75,PF
+286,1629638,Nickeil,Alexander-Walker,23,"Toronto, Ontario",43.6534817,-79.3839347,75,SG
+287,202709,Cory,Joseph,30,"Toronto, Ontario",43.6534817,-79.3839347,75,PG
+288,1628373,Frank,Ntilikina,23,"Ixelles, Belgium",50.8331141,4.3668279,75,SG
+289,1629731,Dean,Wade,25,"Wichita, Kansas",37.6922361,-97.3375448,75,PF
+290,1630526,Jeremiah,Robinson-Earl,21,"Kansas City, Missouri",39.100105,-94.5781416,75,C
+291,1629013,Landry,Shamet,25,"Kansas City, Missouri",39.100105,-94.5781416,75,SG
+292,202684,Tristan,Thompson,31,"Toronto, Ontario",43.6534817,-79.3839347,75,PF
+293,1630560,Cam,Thomas,20,"Yokosuka, Japan",35.2730564,139.6653829,75,SG
+294,1629631,De'Andre,Hunter,24,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,75,SF
+295,1629726,Garrison,Mathews,25,"Franklin, Tennessee",35.925206,-86.8689419,75,SG
+296,1627863,Danuel,House Jr.,29,"Houston, Texas",29.7589382,-95.3676974,75,SF
+297,1630586,Usman,Garuba,20,"Azuqueca de Henares, Spain",40.5683808,-3.2627134,75,PF
+298,1630322,Lindy,Waters III,24,"Norman, Oklahoma",35.2225717,-97.4394816,75,SG
+299,1630558,Davion,Mitchell,23,"Hinesville, Georgia",31.8477298,-81.5960354,75,PG
+300,1629003,Shake,Milton,25,"Owasso, Oklahoma",36.2659698,-95.8548557,75,SG
+301,203087,Jeremy,Lamb,30,"Henrico, Virginia",37.4957023,-77.335257,75,SG
+302,203914,Gary,Harris,27,"Fishers, Indiana",39.9555928,-86.0138729,75,SG
+303,203200,Justin,Holiday,33,"Mission Hills, California",34.687584,-120.4390175,75,SF
+304,1629111,Jock,Landale,26,"Melbourne, Australia",-37.8768611,145.0691707,75,C
+305,1628432,Davon,Reed,27,"Princeton, New Jersey",40.34833555,-74.66842306,75,SG
+306,1630215,Jared,Butler,21,"Reserve, Louisiana",30.080109,-90.55762267,75,SG
+307,202683,Enes,Freedom,30,"Zurich, Switzerland",47.3744489,8.5410422,75,C
+308,202066,Garrett,Temple,36,"Baton Rouge, Louisiana",30.4459596,-91.18738,75,SG
+309,1630549,Day'Ron,Sharpe,20,"Greenville, North Carolina",35.613224,-77.3724593,75,PF
+310,1630205,Lamar,Stevens,24,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,75,PF
+311,202362,Lance,Stephenson,31,"Brooklyn, New York",40.6526006,-73.9497211,75,SG
+312,202397,Ish,Smith,33,"Charlotte, North Carolina",35.2272086,-80.8430827,75,PG
+313,1628966,Keita,Bates-Diop,26,"Bloomington, Illinois",40.4797828,-88.9939147,75,SF
+314,1630533,Ziaire,Williams,20,"Lancaster, California",34.6981064,-118.1366153,75,SF
+315,1630201,Malachi,Flynn,24,"Tacoma, Washington",47.2495798,-122.4398746,75,PG
+316,203469,Cody,Zeller,29,"Washington, Indiana",38.6592152,-87.172789,75,C
+317,1630192,Zeke,Nnaji,21,"Hopkins, Minnesota",44.9271194,-93.4074945,75,PF
+318,1630530,Trey,Murphy III,22,"Durham, North Carolina",35.996653,-78.9018053,75,SF
+319,1630557,Corey,Kispert,23,"Edmonds, Washington",47.8105738,-122.3774952,75,SF
+320,1629672,Eric,Paschall,25,"North Tarrytown, New York",41.082412,-73.858562,75,PF
+321,1627788,Furkan,Korkmaz,24,"Istanbul, Turkey",41.0091982,28.9662187,75,SG
+322,1630572,Sandro,Mamukelashvili,23,"New York, New York",40.7127281,-74.0060152,75,PF
+323,201569,Eric,Gordon,33,"Indianapolis, Indiana",39.7683331,-86.1583502,75,SG
+324,1630544,Tre,Mann,21,"Gainesville, Florida",29.6519684,-82.3249846,75,PG
+325,1629660,Ty,Jerome,24,"New York, New York",40.7127281,-74.0060152,75,SG
+326,1629641,Romeo,Langford,22,"New Albany, Indiana",38.2856247,-85.8241312,75,SG
+327,1629667,Jalen,McDaniels,24,"Federal Way, Washington",47.313494,-122.3393103,75,SF
+328,1630177,Theo,Maledon,21,"Rouen, France",49.4404591,1.0939658,74,PG
+329,1630528,Josh,Christopher,20,"Carson, California",33.8322043,-118.2517547,74,SG
+330,1627737,Marquese,Chriss,24,"Sacramento, California",38.5810606,-121.493895,74,PF
+331,1628402,Frank,Jackson,24,"Washington, District of Columbia",38.8950368,-77.0365427,74,PG
+332,203926,Doug,McDermott,30,"Grand Forks, North Dakota",47.9078244,-97.0592028,74,PF
+333,203585,Rodney,McGruder,30,"Landover, Maryland",38.92531295,-76.8815433,74,SG
+334,1629109,Gary,Clark,27,"Smithfield, North Carolina",35.5085531,-78.33936,74,PF
+335,1629681,Killian,Tillie,24,"Cagnes-sur-Mer, France",43.6612012,7.1513834,74,C
+336,203901,Elfrid,Payton,28,"Gretna, Louisiana",29.9146493,-90.0539604,74,PG
+337,1628972,Troy,Brown Jr.,22,"Las Vegas, Nevada",36.1672559,-115.148516,74,SF
+338,202340,Avery,Bradley,31,"Tacoma, Washington",47.2495798,-122.4398746,74,SG
+339,203463,Ben,McLemore,29,"St. Louis, Missouri",38.6264256,-90.1995853,74,SG
+340,1630527,Brandon,Boston Jr.,20,"Norcross, Georgia",33.9412127,-84.2135309,74,SG
+341,1630688,Ish,Wainright,27,"Kansas City, Missouri",39.100105,-94.5781416,74,PF
+342,1629139,Yuta,Watanabe,27,"Yokohama, Japan",35.444991,139.636768,74,SF
+343,203458,Alex,Len,29,"Antratsit, Ukraine",48.12,39.0898,74,C
+344,1630314,Brandon,Williams,22,"Los Angeles, California",34.0536909,-118.242766,74,PG
+345,1630625,Dalano,Banton,22,"Toronto, Ontario",43.6534817,-79.3839347,74,PG
+346,101150,Lou,Williams,35,"Memphis, Tennessee",35.1335022,-89.9668758,74,PG
+347,1629685,Dylan,Windler,25,"Indianapolis, Indiana",39.7683331,-86.1583502,74,SF
+348,1630846,Olivier,Sarr,23,"Niort, France",46.3241132,-0.4649403,74,C
+349,1630230,Naji,Marshall,24,"Atlantic City, New Jersey",39.3642852,-74.4229351,74,SF
+350,1627854,Bryn,Forbes,28,"Lansing, Michigan",42.7337712,-84.5553805,74,SG
+351,201609,Goran,Dragic,36,"Ljubljana, Slovenia",46.0500268,14.5069289,74,PG
+352,1630264,Anthony,Gill,29,"High Point, North Carolina",35.9556924,-80.0053176,74,PF
+353,1627823,Juancho,Hernangomez,26,"Madrid, Spain",40.4167047,-3.7035825,74,PF
+354,203082,Terrence,Ross,31,"Portland, Oregon",45.5202471,-122.6741949,74,SG
+355,202324,Derrick,Favors,30,"Atlanta, Georgia",33.7489924,-84.3902644,74,C
+356,203090,Maurice,Harkless,29,"Queens, New York",40.76639995,-73.77387801,74,SF
+357,1630181,R.J.,Hampton,21,"Dallas, Texas",32.7762719,-96.7968559,74,SG
+358,201961,Wayne,Ellington,34,"Wynnewood, Pennsylvania",40.0028514,-75.2707469,74,SG
+359,1630556,Kessler,Edwards,21,"Glendale, California",34.1469416,-118.2478471,74,SF
+360,201577,Robin,Lopez,34,"North Hollywood, California",34.1729044,-118.3740371,73,C
+361,1628367,Josh,Jackson,25,"San Diego, California",32.7174202,-117.1627728,73,SF
+362,1628425,Sterling,Brown,27,"Maywood, Illinois",41.8789942,-87.8436412,73,SG
+363,1630535,Greg,Brown III,20,"Dallas, Texas",32.7762719,-96.7968559,73,SF
+364,203107,Tomas,Satoransky,30,"Prague, Czech Republic",50.0596288,14.44645927,73,PG
+365,1630598,Aaron,Wiggins,23,"Greensboro, North Carolina",36.0726355,-79.7919754,73,SG
+366,1629670,Jordan,Nwora,23,"Buffalo, New York",42.8867166,-78.8783922,73,SF
+367,202722,Davis,Bertans,29,"Valmiera, Latvia",57.5389148,25.4261688,73,PF
+368,1629004,Svi,Mykhailiuk,25,"Cherkasy, Ukraine",49.1460165,31.2271744,73,SF
+369,1629006,Josh,Okogie,23,"Lagos, Nigeria",6.4550575,3.3941795,73,SG
+370,1630568,Luka,Garza,23,"Washington, District of Columbia",38.8950368,-77.0365427,73,C
+371,203648,Thanasis,Antetokounmpo,29,"Athens, Greece",37.9839412,23.7283052,73,SF
+372,203085,Austin,Rivers,29,"Santa Monica, California",34.0194704,-118.4912273,73,SG
+373,200794,Paul,Millsap,37,"Monroe, Louisiana",32.5102427,-92.1032411,73,C
+374,1628975,Jevon,Carter,26,"Maywood, Illinois",41.8789942,-87.8436412,73,PG
+375,1630210,Markus,Howard,23,"Morristown, New Jersey",40.7970382,-74.4809868,73,SG
+376,1629717,Armoni,Brooks,24,"Waco, Texas",31.549333,-97.1466695,73,SG
+377,1630551,Justin,Champagnie,21,"Brooklyn, New York",40.6526006,-73.9497211,73,SF
+378,1630219,Skylar,Mays,24,"Baton Rouge, Louisiana",30.4459596,-91.18738,73,SG
+379,203145,Kent,Bazemore,32,"Kelford, North Carolina",36.1796007,-77.2235757,73,SF
+380,1630613,Duane,Washington Jr.,22,"Frankfurt, Germany",50.1106444,8.6820917,73,PG
+381,1630249,Vit,Krejci,22,"Strakonice, Czech Republic",49.2662501,13.91370161,73,SG
+382,1626246,Boban,Marjanovic,33,"Zajecar, Serbia",43.9030925,22.2785536,73,C
+383,1630184,Kira,Lewis Jr.,21,"Meridianville, Alabama",34.8703256,-86.57136115,73,PG
+384,1630541,Moses,Moody,20,"Little Rock, Arkansas",34.7465071,-92.2896267,73,SG
+385,1629644,KZ,Okpala,23,"Orange County, California",33.7500378,-117.8704931,73,PF
+386,1629633,Jarrett,Culver,23,"Dallas, Texas",32.7762719,-96.7968559,73,SG
+387,202083,Wesley,Matthews,35,"San Antonio, Texas",29.4246002,-98.4951405,73,SG
+388,1630563,Joshua,Primo,19,"Mississauga, Ontario",43.5896231,-79.6443879,73,SF
+389,1629649,Ignas,Brazdeikis,23,"Kaunas, Lithuania",54.8982139,23.9044817,73,SF
+390,1626161,Willie,Cauley-Stein,28,"Spearville, Kansas",37.8500191,-99.7567932,73,C
+391,1627789,Timothe,Luwawu-Cabarrot,27,"Cannes, France",43.5515198,7.0134418,73,SF
+392,1629744,Matt,Thomas,27,"Decatur, Illinois",39.8454163,-88.9524151,73,SG
+393,1629103,Kelan,Martin,26,"Louisville, Kentucky",38.2542376,-85.759407,73,SF
+394,2772,Trevor,Ariza,37,"Miami, Florida",25.7741728,-80.19362,73,SF
+395,1630561,David,Duke Jr.,22,"Providence, Rhode Island",41.8239891,-71.4128343,73,PG
+396,1630174,Aaron,Nesmith,22,"Charleston, South Carolina",32.7876012,-79.9402728,73,SF
+397,1629117,Wenyen,Gabriel,25,"Khartoum, Sudan",15.5635972,32.5349123,73,PF
+398,203504,Trey,Burke,29,"Columbus, Ohio",39.9622601,-83.0007065,73,PG
+399,1630550,JT,Thor,19,"Omaha, Nebraska",41.2587459,-95.9383758,73,PF
+400,202738,Isaiah,Thomas,33,"Tacoma, Washington",47.2495798,-122.4398746,72,PG
+401,1630540,Miles,McBride,21,"Cincinnati, Ohio",39.1014537,-84.5124602,72,PG
+402,1629604,CJ,Elleby,22,"Federal Way, Washington",47.313494,-122.3393103,72,SF
+403,201571,D.J.,Augustin,34,"New Orleans, Louisiana",29.9759983,-90.0782127,72,PG
+404,1630553,Keon,Johnson,20,"Shelbyville, Tennessee",35.483406,-86.4602717,72,SG
+405,1630583,Santi,Aldama,21,"Las Palmas, Spain",27.9580004,-15.60623054,72,PF
+406,1628995,Kevin,Knox,22,"Phoenix, Arizona",33.4484367,-112.074141,72,SF
+407,203918,Rodney,Hood,29,"Meridian, Mississippi",32.3643098,-88.703656,72,SF
+408,1628993,Alize,Johnson,26,"Williamsport, Pennsylvania",41.2493292,-77.0027671,72,PF
+409,1630552,Jalen,Johnson,20,"Wausau, Wisconsin",44.9596017,-89.6298239,72,PF
+410,203503,Tony,Snell,30,"Los Angeles, California",34.0536909,-118.242766,72,SG
+411,202954,Brad,Wanamaker,32,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,72,PG
+412,1630198,Isaiah,Joe,22,"Fort Smith, Arkansas",35.3784666,-94.3996456,72,SG
+413,1627774,Jake,Layman,28,"Norwood, Massachusetts",42.194543,-71.1994976,72,SF
+414,1630227,Daishen,Nix,20,"Anchorage, Alaska",61.2163129,-149.894852,72,SG
+415,1629718,Charlie,Brown Jr.,25,"Philadelphia, Pennsylvania",39.9527237,-75.1635262,72,SG
+416,1630580,Joe,Wieskamp,22,"Muscatine, Iowa",41.4776121,-91.1210053,71,SG
+417,1628400,Semi,Ojeleye,27,"Overland Park, Kansas",38.9742502,-94.6851702,71,PF
+418,1629185,Chris,Chiozza,26,"Memphis, Tennessee",35.1335022,-89.9668758,71,PG
+419,1629678,Admiral,Schofield,25,"London, United Kingdom",51.5073219,-0.1276474,71,SF
+420,1626208,Keifer,Sykes,28,"Chicago, Illinois",41.8755616,-87.6244212,70,PG
+421,1630190,Elijah,Hughes,24,"Poughkeepsie, New York",41.7065539,-73.9283672,70,SG
+422,1630539,Kai,Jones,21,"Nassau, Bahamas",25.0783456,-77.3383331,70,C
+423,1630195,Leandro,Bolmaro,21,"Las Varillas, Argentina",-31.874029,-62.7160986,70,SF
+424,1630547,James,Bouknight,21,"Brooklyn, New York",40.6526006,-73.9497211,70,SG
+425,1630698,Kevin,Pangos,29,"Holland Landing, Ontario",44.1015097,-79.4914772,70,PG
+426,1629620,Justin,Robinson,24,"Manassas, Virginia",38.7509488,-77.4752667,70,PG
+427,1629833,Keljin,Blevins,26,"Hot Springs, Arkansas",34.5038393,-93.0552437,69,SF
